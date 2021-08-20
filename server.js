@@ -15,6 +15,9 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
+// =============================
+// ADD || "mogodb+srv:// . . . "
+// =============================
 mongoose.connect("mongodb://localhost/budget", {
   useNewUrlParser: true,
   useFindAndModify: false
