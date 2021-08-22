@@ -31,6 +31,7 @@ This Progressive Web App can either be run [directly](https://online-offline-bud
 ## Usage 
 
 Enter your
+
 <code>Name of Transaction</code>
 
 and
@@ -53,7 +54,7 @@ to visualize and track your budget effectively from anywhere - even when you don
 * [James Boblak](https://github.com/jamesboblak)
 * [W3schools.com](https://www.w3schools.com/)
 * [developer.mozilla.org](https://developer.mozilla.org/en-US/)
-* [youtube.com](http://www.youtube.com)
+* [youtube.com](https://www.youtube.com/results?sp=mAEB&search_query=make+a+pwa)
 * [UC Berkeley Full Stack Developer Bootcamp](https://bootcamp.berkeley.edu/coding/)
 
 
