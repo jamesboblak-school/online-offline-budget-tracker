@@ -20,7 +20,11 @@ https://online-offline-budget-trkr.herokuapp.com/
 This Progressive Web App can either be run [directly](https://online-offline-budget-trkr.herokuapp.com/) in any modern browser, or it can be installed onto any cell phone or tablet:
 
 ![PWA install](./demo_assets/PWA_install-button.png)
+
+
 <sup>^ From the address bar in a browser ^ </sup> 
+
+
 <img src="./demo_assets/PWA_logo.png" alt="drawing" width="100"/>
 
 
