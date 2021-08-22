@@ -36,7 +36,7 @@ Enter your <code>Transaction Name</code> and <code>Transaction Amount</code>, th
 ## Credits
 
 W3schools.com
-developer.mozillz.org
+developer.mozilla.org
 youtube.com
 [UC Berkeley Full Stack Developer Bootcamp](https://bootcamp.berkeley.edu/coding/)
 
