@@ -30,7 +30,22 @@ This Progressive Web App can either be run [directly](https://online-offline-bud
 
 ## Usage 
 
-Enter your <code>Transaction Name</code> and <code>Transaction Amount</code>, then either click <code>+ Add Funds</code> or <code>- Subtract Funds</code> to visualize and track your budget effectively from anywhere - even when you don't have an internet connection!  
+Enter your
+<code>Name of Transaction</code>
+
+and
+
+<code>Transaction Amount</code>
+
+then either click
+
+<code>+ Add Funds</code>
+
+or
+
+<code>- Subtract Funds</code>
+
+to visualize and track your budget effectively from anywhere - even when you don't have an internet connection!  
 
 
 ## Credits
