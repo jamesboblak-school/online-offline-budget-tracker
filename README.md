@@ -51,9 +51,9 @@ to visualize and track your budget effectively from anywhere - even when you don
 ## Credits
 
 * [James Boblak](https://github.com/jamesboblak)
-* W3schools.com
-* developer.mozilla.org
-* youtube.com
+* [W3schools.com](www.w3shools.com)
+* [developer.mozilla.org](https://developer.mozilla.org/en-US/)
+* [youtube.com](www.youtube.com)
 * [UC Berkeley Full Stack Developer Bootcamp](https://bootcamp.berkeley.edu/coding/)
 
 
