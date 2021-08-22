@@ -50,10 +50,11 @@ to visualize and track your budget effectively from anywhere - even when you don
 
 ## Credits
 
-W3schools.com
-developer.mozilla.org
-youtube.com
-[UC Berkeley Full Stack Developer Bootcamp](https://bootcamp.berkeley.edu/coding/)
+* [James Boblak](https://github.com/jamesboblak)
+* W3schools.com
+* developer.mozilla.org
+* youtube.com
+* [UC Berkeley Full Stack Developer Bootcamp](https://bootcamp.berkeley.edu/coding/)
 
 
 ## License
